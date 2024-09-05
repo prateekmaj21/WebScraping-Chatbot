@@ -5,6 +5,9 @@
 
 The "Web Scraping Chatbot" project creates an interactive system to parse online recipes and provides a conversational interface for users. It extracts recipe details from a provided URL and allows users to navigate through the recipe steps using a chatbot-like interface.
 
+![Interactive Cookbook](https://github.com/prateekmaj21/WebScraping-Chatbot/blob/main/Screenshot1.jpg)
+
+
 ## Features
 
 - **Recipe Parsing:** Retrieves and processes recipe data from a specified URL.
