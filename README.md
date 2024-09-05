@@ -11,6 +11,9 @@ The "Web Scraping Chatbot" project creates an interactive system to parse online
 - **Conversational Interface:** Engages users to guide them through recipe steps and answer questions.
 - **Step Navigation:** Users can navigate between steps, view the current step, or get information about the recipe.
 
+## Data Extraction
+The script begins by fetching the HTML content of the provided recipe URL using `urllib.request.urlopen()`. It then parses the HTML with BeautifulSoup to extract the recipe title, description, and list of items.
+
 ## Technologies Used
 
 - **Python Libraries:** `nltk`, `numpy`, `beautifulsoup4`, `requests`, `textblob`, `fuzzywuzzy`, `scikit-learn`
