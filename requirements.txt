@@ -1,0 +1,7 @@
+nltk
+numpy
+beautifulsoup4
+requests
+textblob
+fuzzywuzzy
+scikit-learn
