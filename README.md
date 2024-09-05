@@ -27,54 +27,57 @@ The conversational interface uses TF-IDF vectorization and cosine similarity to 
 
 ## Sample Links:
 
-https://www.allrecipes.com/chicken-ricotta-meatballs-recipe-8683251
-https://www.allrecipes.com/recipe/274484/risotto-alla-pavese/
-https://www.allrecipes.com/recipe/218091/classic-and-simple-meat-lasagna/
-https://en.wikipedia.org/wiki/Vindaloo
+- https://www.allrecipes.com/chicken-ricotta-meatballs-recipe-8683251
+  
+- https://www.allrecipes.com/recipe/274484/risotto-alla-pavese/
+  
+- https://www.allrecipes.com/recipe/218091/classic-and-simple-meat-lasagna/
+  
+- https://en.wikipedia.org/wiki/Vindaloo
 
 ## Sample Questions:
 
 - how can i get cutlery for this
 
--how to boil water
+- how to boil water
 
--how to use an oven?
+- how to use an oven?
 
--give cooking steps?
+- give cooking steps?
 
--how to cook?
+- how to cook?
 
--what are the cooking steps?
+- what are the cooking steps?
 
--Take me to the current step?
+- Take me to the current step?
 
--what is the current step?
+- what is the current step?
 
--Take me to the next step?
+- Take me to the next step?
 
--what is the next step?
+- what is the next step?
 
--Take me to the previous step?
+- Take me to the previous step?
 
--what is the previous step?
+- what is the previous step?
 
--Take me to step 1
+- Take me to step 1
 
--give recipe content from website
+- give recipe content from website
 
--what are the recipe ingredients
+- what are the recipe ingredients
 
--what is used to make this dish
+- what is used to make this dish
 
--how to prepare this food item
+- how to prepare this food item
 
--what should be the oven temperature to make this
+- what should be the oven temperature to make this
 
--where in india can i find this
+- where in india can i find this
 
--is it from goa
+- is it from goa
 
--find chicken Vindaloo in mumbai
+- find chicken Vindaloo in mumbai
 
 
 
