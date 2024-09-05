@@ -34,7 +34,7 @@ https://en.wikipedia.org/wiki/Vindaloo
 
 ## Sample Questions:
 
--how can i get cutlery for this
+- how can i get cutlery for this
 
 -how to boil water
 
